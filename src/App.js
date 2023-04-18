@@ -1,7 +1,7 @@
 import "./App.css";
 import JSONDATA from "./MOCK_DATA.json";
 import { useState } from "react";
-
+//Feature 2
 function App() {
   const [searchTerm, setSearchTerm] = useState("");
   return (
